@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<course>
+    <student>
+         <name>ANNA</name>
+         <reg>2247239</reg>
+         <email>anna.danties@gmail.com</email>
+    </student>
+    <student>
+        <name>Sona</name>
+        <reg>2247229</reg>
+        <email>rajarshi.bar@gmail.com</email>
+    </student>
+    <student>
+        <name>Debanjan</name>
+        <reg>2247214</reg>
+        <email>debanjan.bas@gmail.com</email>
+    </student>
+    <student>
+        <name>Nandini</name>
+        <reg>2457901</reg>
+        <email>nandini.chak@gmail.com</email>
+    </student>
+</course>
